@@ -1,0 +1,15 @@
+First Tips:
+1.When we enter a url in the google browser it go to google server and send three things in return and they are HTML document which gives static site, CSS give the desing to the website and JS gives the functionality.
+
+Question No. 1:
+## What is Javascript ? What is the role of JS engines?
+
+Ans: Javascript is a programming language that is used for converting static web pages to interective and dynamic web pages.
+
+A Javascript engine is a program present in web browsers that executes JavaScript code.
+
+Javascript engines:
+V8 -> Chrome
+Spider-Monkey -> FireFox
+Javascript-Core -> Safari
+Chakra -> Edge.
